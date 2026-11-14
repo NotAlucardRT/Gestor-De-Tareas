@@ -53,14 +53,3 @@ Es una aplicación estática compatible con GitHub Pages, Netlify o Render Stati
 - Directorio de publicación: `dist`
 - Para una SPA, configura la reescritura de rutas a `index.html` si el proveedor lo requiere.
 
-## Informe PDF
-
-Edita `INTEGRANTES`, `URL_REPOSITORIO` y `URL_DESPLIEGUE` al inicio de `generar_informe.py`. Luego instala `reportlab` (`python -m pip install reportlab`) y ejecuta `python generar_informe.py` para regenerar `Informe_Organiza.pdf`.
-
-## Datos de entrega académica pendientes
-
-- Integrantes: **[completar con los nombres del grupo]**
-- Repositorio: **[agregar URL al crear/publicar el repositorio]**
-- Despliegue: **[agregar URL al publicar la aplicación]**
-
-No se han creado ni publicado enlaces en nombre del grupo. Completa estos datos en el informe PDF antes de entregar.
